@@ -1,4 +1,4 @@
-# 👋🏽 Hi, I'm Kgosietsile (Kgosirm)
+# 👋🏽 Hi, I'm Kgosi Ruri Molebatsi
 
 🎓 **BSc (Hons) Actuarial Science** — Heriot-Watt University  
 📍 Based in Scotland | 🧮 Data & Risk | 🌍 Socioeconomic Modelling | 🏃🏽‍♂️ Distance Runner

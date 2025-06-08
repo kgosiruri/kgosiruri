@@ -29,7 +29,7 @@ Currently exploring:
 - 📊 **Julia**, **R**, **Python**, **VBA**, **LaTex**, **Excel**, **Powerpoint**
 - 🌍 Research: 
 
----
+
 
 ## 📂 Featured Projects
 
@@ -40,7 +40,6 @@ Currently exploring:
   Self-study repo with notes, code, and visualisations from the textbook:  
   _Statistics with Julia: Fundamentals for Data Science, Machine Learning and AI_
 
----
 
 ## 📫 Let's Connect
 

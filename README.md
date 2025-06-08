@@ -3,8 +3,6 @@
 🎓 **BSc (Hons) Actuarial Science** — Heriot-Watt University  
 📍 Based in Scotland | 🧮 Data & Risk | 🏃🏽‍♂️ Distance Runner
 
----
-
 ## 🔍 About Me
 
 I'm passionate about using data to solve complex problems—especially in actuarial science, financial risk, and development economics.  
@@ -16,20 +14,18 @@ Currently exploring:
 - 📉 Statistical Modelling in Julia & R
 - 🏛 Development indicators in African economies
 
----
-
 ## 💼 Experience
 
 - 🔢 **Actuarial Pricing Intern** at Ageas & Risk Management, Capital & Reserving Intern at a Lloyd's Syndicate  
 
----
-
 ## 🧰 Technical Stack
 
 - 📊 **Julia**, **R**, **Python**, **VBA**, **LaTex**, **Excel**, **Powerpoint**
-- 🌍 Research: 
+- 🌍 Research:
 
+## 📊 GitHub Stats
 
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kgosiruri&layout=compact&langs_count=8&hide=html,css)
 
 ## 📂 Featured Projects
 
@@ -40,11 +36,9 @@ Currently exploring:
   Self-study repo with notes, code, and visualisations from the textbook:  
   _Statistics with Julia: Fundamentals for Data Science, Machine Learning and AI_
 
-
 ## 📫 Let's Connect
 
 - 🌐 [LinkedIn](https://www.linkedin.com/in/kgosietsile) (or insert your link)
 - 📬 Email: krmolebatsi@icloud.com
-
 
 Thanks for stopping by!

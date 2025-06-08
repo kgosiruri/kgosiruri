@@ -1,7 +1,7 @@
 # 👋🏽 Hi, I'm Kgosi Ruri Molebatsi
 
 🎓 **BSc (Hons) Actuarial Science** — Heriot-Watt University  
-📍 Based in Scotland | 🧮 Data & Risk | 🌍 Socioeconomic Modelling | 🏃🏽‍♂️ Distance Runner
+📍 Based in Scotland | 🧮 Data & Risk | 🏃🏽‍♂️ Distance Runner
 
 ---
 
@@ -14,29 +14,20 @@ Currently exploring:
 - 🧠 Internal Model Validation & Governance
 - 🌡 Actuarial Climate Indices (PC1 & LST methods)
 - 📉 Statistical Modelling in Julia & R
-- 🤖 Fraud Detection (without ML libraries)
 - 🏛 Development indicators in African economies
 
 ---
 
 ## 💼 Experience
 
-- 🔢 **Actuarial Intern** at Ageas & Lloyd's Syndicate  
-  (Capital, Reserving, Pricing & Risk Management)
-- 🧮 Personal data projects using Julia & R
-- 🧑🏽‍🤝‍🧑🏽 Volunteering:  
-  - Student Union BME Advocate  
-  - Soup Kitchen Volunteer  
-  - African Caribbean Society Rep
+- 🔢 **Actuarial Pricing Intern** at Ageas & Risk Management, Capital & Reserving Intern at a Lloyd's Syndicate  
 
 ---
 
 ## 🧰 Technical Stack
 
-- 📊 **Julia**, **R**, **Python**  
-- 📈 Plots.jl, GLM.jl, DataFrames.jl  
-- 🧾 LaTeX, Markdown, Git, Excel  
-- 🌍 Research: econometrics, simulations, socioeconomic data
+- 📊 **Julia**, **R**, **Python**, **VBA**, **LaTex**, **Excel**, **Powerpoint**
+- 🌍 Research: 
 
 ---
 
@@ -49,16 +40,12 @@ Currently exploring:
   Self-study repo with notes, code, and visualisations from the textbook:  
   _Statistics with Julia: Fundamentals for Data Science, Machine Learning and AI_
 
-- 🕵🏽‍♂️ **Credit Card Fraud Detection (No ML Libraries)**  
-  Exploratory project on identifying fraud patterns using statistical logic only
-
 ---
 
 ## 📫 Let's Connect
 
 - 🌐 [LinkedIn](https://www.linkedin.com/in/kgosietsile) (or insert your link)
-- 📬 Email: yourname@email.com (or leave blank)
-- 🐦 Twitter: @yourhandle (optional)
+- 📬 Email: krmolebatsi@icloud.com
 
-Thanks for stopping by! 🚀
-ß
+
+Thanks for stopping by!

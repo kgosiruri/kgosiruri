@@ -12,7 +12,7 @@ Whether it's climate metrics, capital modelling, or socioeconomic disparity in A
 
 Currently exploring:
 - 🧠 Internal Model Validation & Governance
-- 🌡 Actuarial Climate Indices (PC1 & LSTM methods)
+- 🌡 Actuarial Climate Indices (Principal Compnent Analysis & LSTM methods)
 - 📉 Statistical Modelling in Julia & R
 - 🏛 Development indicators in African economies
 
